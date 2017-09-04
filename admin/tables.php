@@ -190,5 +190,5 @@
     </div>
 </div>
 
-<?php include "./datatable.php"; ?>
+<?php include "./tabla_data.php"; ?>
 
